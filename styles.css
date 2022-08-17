@@ -1,0 +1,28 @@
+body {
+  background-color: azure;
+  width: 800px;
+  align-items: center;
+  margin-left: 600px;
+}
+.header {
+}
+.hero {
+  height: 400px;
+
+  background-color: #676;
+}
+.section {
+  height: 200px;
+  background-color: rgb(218, 230, 240);
+}
+.boxes {
+  height: 200px;
+  background-color: aqua;
+}
+.footer,
+.header {
+  height: 55px;
+  background-color: #666;
+  display: flex;
+  justify-content: space-between;
+}
