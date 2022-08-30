@@ -67,18 +67,20 @@ button {
 .left {
   width: 400px;
   margin-bottom: 40px;
-}
-.boxes {
-  display: flex;
-  justify-content: space-evenly;
-  align-items: center;
-  height: 200px;
-  background-color: white;
-}
-.box-pic {
-  display: flex;
   justify-content: space-between;
   text-align: center;
+}
+
+.boxes {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 10px;
+  height: 230px;
+  color: #1f2937;
+  background-color: #f9faf8;
+  gap: 38px;
+  padding-left: 40px;
 }
 .boxes img {
   margin-top: -10px;
