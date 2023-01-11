@@ -38,9 +38,6 @@ a {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  padding-top: 10px;
-  height: 230px;
-  color: #e5e7eb;
   background-color: #1f2937;
   gap: 38px;
   padding-left: 40px;
@@ -102,7 +99,6 @@ button {
   display: flex;
   align-items: center;
   justify-content: center;
- 
 }
 .quote p {
   font-family: sans-serif;
@@ -110,9 +106,8 @@ button {
   color: #1f2937;
   font-style: italic;
   font-weight: lighter;
- padding: 40px;
+  padding: 40px;
   text-align: center;
-  
 }
 
 .section {
@@ -131,10 +126,9 @@ button {
   height: 75px;
   width: 500px;
   border-radius: 5px;
-  background-color: #3382f6 ;
+  background-color: #3382f6;
   color: #e5e7eb;
   padding: 10px;
-  
 }
 .section button {
   border: 3px white solid;
@@ -156,9 +150,9 @@ button {
   background-color: #1f2937;
   display: flex;
   align-items: center;
- justify-content: center;
+  justify-content: center;
 }
 .footer p {
-font-size: 10px;
-color: #e5e7eb
+  font-size: 10px;
+  color: #e5e7eb;
 }
